@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+Though HTMl is not new for me but it was quite fun exercise. I learned more new terminologies through the project. I learned terminologies such as figure tag and figcaption, academic semantic for writing blogs, website contents. Though it was bit difficult to pick up figcaption but with practice it was ok. I figured out I had bit difficulty in visualizing the things. But for that I would constantly check the mockup designs and work accordingly. I did use paper pen to draw the designs to get sense of visualization.
